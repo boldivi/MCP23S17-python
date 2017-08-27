@@ -1,4 +1,5 @@
 import mcp23s17
+import time
 
 # Initialize default GPIO map: MISO=9,MOSI=10,CLK=11,CS=8,RESET=5
 io = MCP23S17()
