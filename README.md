@@ -1,4 +1,3 @@
-# Warning! Not tested version!
 
 # MCP23S17-python
 # MCP23S17 python lib
